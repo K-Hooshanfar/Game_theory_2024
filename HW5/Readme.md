@@ -25,6 +25,9 @@ Using the replicator dynamics model, simulate the system. This model follows the
 Using this model, analyze the conditions for the initial population leading to the replicator dynamics equilibrium.
 
 
+------------------------------------------
+
+
 # Question 5: Fictitious Play 
 
 In a two-person game with two strategies, consider the following game. Assume this game is symmetric and each player finds their strategy using Fictitious Play. Write the following items using the provided formula (reply or Python):
