@@ -2,13 +2,11 @@
 
 Considering the following payoff matrix, answer the questions below.
 
-\[
-\begin{pmatrix}
-1 & 3 & 2 \\
-0 & 2 & 5 \\
-6 & 1 & 4 \\
-\end{pmatrix}
-\]
+|   | S1  | S2  | S3  |
+|---|-----|-----|-----|
+| S1| 1   | 3   | 2   |
+| S2| 0   | 2   | 5   |
+| S3| 6   | 1   | 4   |
 
 ## Part A
 
