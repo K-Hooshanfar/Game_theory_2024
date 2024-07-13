@@ -42,8 +42,8 @@ Find the Nash equilibrium for this game when \( a = 1 \).
 
 Assume that the players' observations in the game are as follows, check that this game is constructed using Fictitious Play (Fictitious Play):
 
-1. \( n = 1 \rightarrow (0, 2) \)
-2. \( n = 2 \rightarrow (3) \)
+1. \( n = 1 => (0, 2) \)
+2. \( n = 2 => (3) \)
 
 Analyze your answer.
 
@@ -55,7 +55,7 @@ Find the Nash equilibrium for this game when \( a = 10 \).
 
 Assume that the players' observations in the game are as follows, check that this game is constructed using Fictitious Play (Fictitious Play):
 
-1. \( n = 1 \rightarrow (0, 2) \)
-2. \( n = 2 \rightarrow (3) \)
+1. \( n = 1 => (0, 2) \)
+2. \( n = 2 => (3) \)
 
 Analyze your answer for the case when \( a = 10 \).
